@@ -6,11 +6,10 @@ In this project we create a new note and do some operations like edit and delete
 Requirements:
 ------------
 
-1. Code Blocks
-2. XAMPP
-3. Dev c++(Install in Program Files (x86))
-
-4. Mysql.zip which will be provided
+1. Code Blocks/vs code
+2. XAMPP server
+3. c++ IDE (Install in Program Files (x86))
+4 MySQL Environment
 
 
 STEPS:
